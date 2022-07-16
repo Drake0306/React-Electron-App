@@ -6,7 +6,7 @@ After you clone this project, do the following:
 
 ```bash
 # go into the project
-cd electron-react-app
+cd React-Electron-App
 
 # install npm dependencies
 npm install
