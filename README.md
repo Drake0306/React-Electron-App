@@ -1,9 +1,4 @@
-## Video Chat Application Example
-
-#### [@WeCodeTutorials](https://twitter.com/WeCodeTutorials)
-[![Logo](https://cdn.pbrd.co/images/HdwCut8.png)](https://www.youtube.com/channel/UCj9VatwdukZjNOnIKcpWcsA)
-
-This project is made for my YouTube tutorial on "Create Electron Todos App with ReactJS and Laravel API"
+## Basic Template 
 
 ## get it up and running.
 
